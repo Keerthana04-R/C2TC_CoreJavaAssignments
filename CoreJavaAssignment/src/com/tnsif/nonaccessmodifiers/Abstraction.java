@@ -4,7 +4,7 @@ package com.tnsif.nonaccessmodifiers;
 
 abstract class Shape_Example{
 	
-	abstract void draw(); //functionality or declaration
+	abstract void draw();
 
 }
 
